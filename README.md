@@ -1,12 +1,12 @@
 ## Fingerprint audio files & identify what's playing
 
-# For Ubuntu
+   # For Ubuntu
     Install following additional requirements before
     Installing portaudio may raise an error try sudo apt-get install portaudio19-dev
     Install Tkinter for matplotlib using sudo apt-get install python3-tk
     ffmpeg is also requried sudo apt install ffmpeg
     
-# For Windows
+   # For Windows
     Install following additional requirements before
     !!Since command prompt does not support coloured output most of the text will be garbled!!
     However the app stills works reliably

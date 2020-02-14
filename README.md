@@ -1,17 +1,15 @@
-# Fingerprint audio files & identify what's playing
+## Fingerprint audio files & identify what's playing
 
-    ##For Ubuntu
+# For Ubuntu
     Install following additional requirements before
-
     Installing portaudio may raise an error try sudo apt-get install portaudio19-dev
     Install Tkinter for matplotlib using sudo apt-get install python3-tk
     ffmpeg is also requried sudo apt install ffmpeg
     
-    ##For Windows
+# For Windows
     Install following additional requirements before
-
     !!Since command prompt does not support coloured output most of the text will be garbled!!
-     However the app stills works reliably
+    However the app stills works reliably
     Installing portaudio requires Visual Sudio and Visual C++ 14.0 or higher
     ffmpeg can be downloaded from it's official website
  
@@ -23,10 +21,10 @@
 2. Run `$ make tests` to make sure that everything is properly configurated
 3. Copy some `.mp3` audio files into `mp3/` directory
 4. Run `$ make collect` to analyze audio files & fill your db with hashes
-5. Start play any of audio file (from any source) from `mp3/` directory, and run (parallely) `$ make listen5', '$ make listen8', '$ make listen10','$ make listen15' for recording 5, 8, 10 and 15 seconds respectively.
+5. Start play any of audio file (from any source) from `mp3/` directory, and run (parallely) `$ make listen5'for recording 5 seconds.
 
 
-## How to
+## How to remove specfic entry
 - To remove a specific song & related hash from db
 
   ```bash

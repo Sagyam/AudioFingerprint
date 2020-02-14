@@ -11,10 +11,10 @@ Install following additional requirements before
 ## How to set up 
 
 1. Run `$ make clean reset` to clean & init database struct
-1. Run `$ make tests` to make sure that everything is properly configurated
-1. Copy some `.mp3` audio files into `mp3/` directory
-1. Run `$ make collect` to analyze audio files & fill your db with hashes
-1. Start play any of audio file (from any source) from `mp3/` directory, and run (parallely) `$ make listen5',`$ make listen8', `$ make listen10',`$ make listen15' for recording 5,8,10 and 15 seconds respectively.
+2. Run `$ make tests` to make sure that everything is properly configurated
+3. Copy some `.mp3` audio files into `mp3/` directory
+4. Run `$ make collect` to analyze audio files & fill your db with hashes
+5. Start play any of audio file (from any source) from `mp3/` directory, and run (parallely) `$ make listen5', '$ make listen8', '$ make listen10','$ make listen15' for recording 5, 8, 10 and 15 seconds respectively.
 
 
 ## How to
@@ -26,8 +26,8 @@ Install following additional requirements before
   ```
 
 ## Thanks to
- -[Youtube Channel Real Engineering--How Shazam Works](https://www.youtube.com/watch?v=kMNSAhsyiDg)
+- [Youtube Channel Real Engineering--How Shazam Works](https://www.youtube.com/watch?v=kMNSAhsyiDg)
 - [How does Shazam work](http://coding-geek.com/how-shazam-works)
-https://github.com/itspoma/audio-fingerprint-identifying-python
-- [Audio fingerprinting and recognition in Python](https://github.com/worldveil/dejavu) - thanks for fingerprinting login via     pynum
+  (https://github.com/itspoma/audio-fingerprint-identifying-python)
+- [Audio fingerprinting and recognition in Python](https://github.com/worldveil/dejavu) - thanks for fingerprinting login via   pynum
 

@@ -27,8 +27,8 @@ Install following additional requirements before
   ```
 
 ## Thanks to
-- [How does Shazam work](http://coding-geek.com/how-shazam-works/)
-- [Audio fingerprinting and recognition in Python](https://github.com/worldveil/dejavu) - thanks for fingerprinting login via pynum
-- [Audio Fingerprinting with Python and Numpy](http://willdrevo.com/fingerprinting-and-audio-recognition-with-python/)
-- [Shazam It! Music Recognition Algorithms, Fingerprinting, and Processing](https://www.toptal.com/algorithms/shazam-it-music-processing-fingerprinting-and-recognition)
-- [Creating Shazam in Java](http://royvanrijn.com/blog/2010/06/creating-shazam-in-java/)
+[How Shazam Works]https://www.youtube.com/watch?v=kMNSAhsyiDg
+- [How does Shazam work](http://coding-geek.com/how-shazam-works)
+https://github.com/itspoma/audio-fingerprint-identifying-python
+- [Audio fingerprinting and recognition in Python](https://github.com/worldveil/dejavu) - thanks for fingerprinting login via     pynum
+

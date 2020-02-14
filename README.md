@@ -1,10 +1,19 @@
 # Fingerprint audio files & identify what's playing
 
-Install following additional requirements before
+    ##For Ubuntu
+    Install following additional requirements before
 
-    Installing portaudio may raise aa error use sudo apt-get install portaudio19-dev
+    Installing portaudio may raise an error try sudo apt-get install portaudio19-dev
     Install Tkinter for matplotlib using sudo apt-get install python3-tk
     ffmpeg is also requried sudo apt install ffmpeg
+    
+    ##For Windows
+    Install following additional requirements before
+
+    !!Since command prompt does not support coloured output most of the text will be garbled!!
+     However the app stills works reliably
+    Installing portaudio requires Visual Sudio and Visual C++ 14.0 or higher
+    ffmpeg can be downloaded from it's official website
  
 
 

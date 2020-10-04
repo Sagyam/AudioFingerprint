@@ -1,11 +1,12 @@
 ## Fingerprint audio files & identify what's playing
    This is an audio search algorithm that can recognise any audio clip in it's database by listening to a 5 seconds recording.
    # For Ubuntu
-      Install following additional requirements before
+      Install following additional requirements if installing  **requirements.txt** raises an error
       Installing portaudio may raise an error try 
-      ```sudo apt-get install portaudio19-dev ```
-      ```sudo apt-get install python3-tk```
-       ```sudo apt install ffmpeg```
+      sudo apt-get install portaudio19-dev
+      
+      sudo apt-get install python3-tk
+       sudo apt install ffmpeg```
     
    # For Windows
     Support for windows is limited and may not work reliably 

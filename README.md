@@ -4,16 +4,19 @@
    Install following additional requirements before
    Installing portaudio may raise an error try 
    ```sudo apt-get install portaudio19-dev ```
+   
    ```sudo apt-get install python3-tk```
+   
     ```sudo apt install ffmpeg```
     
    # For Windows
-    Install following additional requirements before
-    !!Since command prompt does not support coloured output most of the text will be garbled!!
-    However the app stills works reliably
-    Installing portaudio requires Visual Sudio and Visual C++ 14.0 or higher
-    ffmpeg can be downloaded from it's official website
- 
+ Support for windows is limited and may not work reliably 
+ Install following additional requirements before
+ !!Since command prompt does not support coloured output most of the text will be garbled!!
+ However the app stills works reliably
+ Installing portaudio requires Visual Sudio and Visual C++ 14.0 or higher
+ ffmpeg can be downloaded from it's official website
+
 
 
 ## How to set up 

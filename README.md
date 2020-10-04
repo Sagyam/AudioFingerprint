@@ -3,11 +3,11 @@
    # For Ubuntu
       Install following additional requirements if installing requirements.txt raises an error
       Installing portaudio may raise an error try 
-      ```
-      sudo apt-get install portaudio19-dev
-      sudo apt-get install python3-tk
-      sudo apt install ffmpeg
-      ```
+      `$sudo apt-get install portaudio19-dev`
+      Also install tkinter and ffmpeg
+      `$sudo apt-get install python3-tk`
+      `$sudo apt install ffmpeg`
+     
     
    # For Windows
     Support for windows is limited and may not work reliably 
